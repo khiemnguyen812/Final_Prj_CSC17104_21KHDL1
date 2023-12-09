@@ -17,12 +17,12 @@
 
 [Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) bao gồm 400 hàng và 13 cột, bao gồm nhiều biến số liên quan đến giấc ngủ và thói quen hàng ngày. Nó bao gồm các chi tiết như giới tính, tuổi tác, nghề nghiệp, thời gian ngủ, chất lượng giấc ngủ, mức độ hoạt động thể chất, mức độ căng thẳng, chỉ số BMI, huyết áp, nhịp tim, số bước đi hàng ngày và sự hiện diện hay vắng mặt của rối loạn giấc ngủ.
 
-#### **_02. Meaningful questions:_**
+#### **_02. Các câu hỏi có ý nghĩa:_**
 
 ...
 
-#### **_03. Questions analysis:_**
+#### **_03. Phân tích các câu hỏi:_**
 
 ...
 
-#### **_04. Planning:_**
+#### **_04. Kế hoạch thực hiện:_**
