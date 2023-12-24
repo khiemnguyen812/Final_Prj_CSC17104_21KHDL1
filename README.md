@@ -48,7 +48,7 @@
     - Bước 4: Xem những người có tình trạng 'Sleep Apnea', 'High' ở 'Blood Pressure Status' và bị thừa hoặc thiếu cân sẽ có chất lượng giấc ngủ như thế nào.
 ![](./Images/Cau4_B4.png)
     - Bước 5: Xem những người không có tình trạng 'Sleep Apnea', 'Normal' ở 'Blood Pressure Status' và 'BMI Category' sẽ có chất lượng giấc ngủ như thế nào.
-![](./Images/Cau3_B5.png)
+![](./Images/Cau4_B5.png)
 
 #### **_04. Kế hoạch thực hiện:_**
 
