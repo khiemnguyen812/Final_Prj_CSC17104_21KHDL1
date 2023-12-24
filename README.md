@@ -6,7 +6,7 @@
 
 - Lớp: 21KHDL1
 
-| #        | Họ tên           |
+| MSSV     | Họ tên           |
 | -------- | ---------------- |
 | 21127587 | Nguyễn Trọng Đại |
 | 21127726 | Nguyễn Tấn Khiêm |
@@ -32,4 +32,5 @@
   - Ý tưởng thực hiện: Kết hợp dữ liệu về Quality of Sleep với thông tin về Stress Level, BMI Category, Systolic, Diastolic, Heart Rate và Sleep Disorder để xác định mức độ ảnh hưởng của chất lượng giấc ngủ đối với hiệu suất công việc và sức khỏe tổng thể.
 
 #### **_04. Kế hoạch thực hiện:_**
+
 ![Kế hoạch thực hiện](./planning.png)
