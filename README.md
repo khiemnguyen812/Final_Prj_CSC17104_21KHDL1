@@ -34,7 +34,7 @@
 
   - Các bước phân tích dữ liệu:
 
-    - Bước 1: Xác định các phân vị của các cột.
+    - Bước 1: Xác định các phân vị của các cột. <br>
 ![C3_B1](./Images/Cau3_B1.png)
     - Bước 2: Các giá trị của từng cột sẽ được chia theo phân vị, các giá trị nằm trong khoảng Minimum đến Quartile 1 sẽ là 1(ít/kém), nằm trong khoảng hơn Quartile 1 và Quartile 2 sẽ là 2(trung bình), từ hơn Quartile 2 đến Quartile 3 là 3(khá) và từ hơn Quartile 3 Maximum sẽ là 4(tốt).
     - ![](./Images/Cau3_B2.png)
