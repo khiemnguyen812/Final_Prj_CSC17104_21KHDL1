@@ -15,7 +15,10 @@
 
 #### **_01. Dataset:_**
 
-[Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) gồm 400 hàng và 13 cột, chứa nhiều biến số liên quan đến giấc ngủ và lối sống. Nó bao gồm các chi tiết như giới tính, tuổi tác, nghề nghiệp, thời gian ngủ, chất lượng giấc ngủ, mức độ hoạt động thể chất, mức độ căng thẳng, chỉ số BMI, huyết áp, nhịp tim, số bước đi hàng ngày và sự hiện diện hay vắng mặt của rối loạn giấc ngủ.
+- [Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) gồm 400 hàng và 13 cột, chứa nhiều biến số liên quan đến giấc ngủ và lối sống. Nó bao gồm các chi tiết như giới tính, tuổi tác, nghề nghiệp, thời gian ngủ, chất lượng giấc ngủ, mức độ hoạt động thể chất, mức độ căng thẳng, chỉ số BMI, huyết áp, nhịp tim, số bước đi hàng ngày và sự hiện diện hay vắng mặt của rối loạn giấc ngủ. Bộ dataset này sẽ cho bạn cái nhìn tổng quan về sự ảnh hưởng của lối sống và sức khoẻ đối với chứng rối loạn giấc ngủ.
+
+- Tác giả: [Laksika Tharmalingam](https://www.kaggle.com/uom190346a)
+- License: CC0: Public Domain
 
 #### **_02. Các câu hỏi có ý nghĩa:_**
 
