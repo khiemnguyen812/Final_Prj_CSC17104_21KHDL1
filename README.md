@@ -72,3 +72,5 @@
     - Bước 1 để trả lời phần `Liệu nam giới hay nữ giới bị rối loạn giấc ngủ nhiều hơn` và các bước còn lại là dựa vào biểu đồ để tìm ra nguyên nhân.
 
 #### **_04. Kế hoạch thực hiện:_**
+
+![Schedule](./Images/schedule.png)
